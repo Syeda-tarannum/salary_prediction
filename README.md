@@ -3,12 +3,19 @@ This project is a simple machine learning web application that predicts an indiv
 
 # Technologies Used
 1.Python
+
 2.Scikit-learn
+
 3.Pandas & NumPy
+
 4.Matplotlib & Seaborn
+
 5.Streamlit
 
 # Key Features
+
 Predict salary based on experience
+
 Compare ML model performance (R², MAE, MSE)
+
 Clean and interactive web interface
